@@ -1,4 +1,5 @@
-Plant Leaf Disease Detection System Using AI Algorithms
+Plant Leaf Disease Detection System Using AI Algorithms:
+
 Table of Contents
 Overview
 Features
@@ -12,10 +13,11 @@ Experimental Results
 Contributing
 Acknowledgements
 Contact
-Overview
+
+Overview:
 This project aims to develop a system for detecting diseases in plant leaves using advanced AI algorithms. By leveraging machine learning techniques, this system can accurately identify various plant diseases, helping farmers and agriculturists manage crop health more effectively.
 
-Features
+Features:
 Accurate Disease Detection: Utilizes state-of-the-art machine learning models to identify plant diseases.
 User-Friendly Interface: Easy-to-use interface for uploading leaf images and receiving diagnostic results.
 Comprehensive Database: Extensive dataset of plant leaves with various diseases for training and validation.
@@ -26,8 +28,9 @@ Libraries: TensorFlow.js, Node.js, Express, Multer
 Frameworks: Express for the web interface
 Tools: Jupyter Notebook for experimentation and visualization (if using Python for training)
 Installation
-Clone the repository:
 
+
+Clone the repository:
 git clone https://github.com/yourusername/Plant-Leaf-Disease-Detection-System-Using-AI-Algorithms.git
 cd Plant-Leaf-Disease-Detection-System-Using-AI-Algorithms
 Create and activate a virtual environment (if needed for any Python preprocessing or training):
@@ -51,12 +54,13 @@ Results: The system displays the disease detected in the leaf, if any, along wit
 Dataset
 The dataset used in this project contains images of healthy and diseased plant leaves. Each image is labeled with the type of disease. The dataset is split into training, validation, and test sets.
 
-Model Training
+Model Training:
 Data Preprocessing: Images are resized, normalized, and augmented to enhance model performance.
 Model Architecture: A Convolutional Neural Network (CNN) is used for image classification.
 Training: The model is trained on the processed dataset using TensorFlow/Keras.
 Evaluation: Model performance is evaluated on the validation set and fine-tuned for optimal accuracy.
 Proposed Model
+
 Dataset
 Plant village dataset with tomato samples, including six disorders.
 Preprocessing
