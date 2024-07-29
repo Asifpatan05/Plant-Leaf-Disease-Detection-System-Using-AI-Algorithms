@@ -93,5 +93,3 @@ The goal is to develop a system that can:
 Consider incorporating additional features:
 - **Disease Prediction:** Predict potential disease outbreaks based on environmental data.
 - **Integration with IoT Devices:** Combine with sensors for real-time monitoring.
-
-By following these steps, you'll create a robust and practical Plant Leaf Disease Detection System that can significantly benefit agricultural practices.
